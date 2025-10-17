@@ -1,6 +1,6 @@
 # Neuro Vision – AI-Powered Alzheimer’s Progression Predictor
 
-NeuroVision predicts Alzheimer’s disease progression using multimodal data: MRI/PET imaging, cognitive scores, and (optionally) genetic markers. It combines **CNNs** for imaging with **Transformer-based** sequence models for tabular/textual features.
+Neuro Vision predicts Alzheimer’s disease progression using multimodal data: MRI/PET imaging, cognitive scores, and (optionally) genetic markers. It combines **CNNs** for imaging with **Transformer-based** sequence models for tabular/textual features.
 
 ## Features
 - **Data Pipeline:** loaders for MRI/PET scans and clinical/cognitive datasets
